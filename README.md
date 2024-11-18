@@ -16,7 +16,7 @@ This project focuses on detecting the freshness of fruits using machine learning
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fruit-freshness-detection.git
+   git clone https://github.com/Leeeykun/CV-Group-Assignment/tree/main/fruit_detection
    cd fruit-freshness-detection
    ```
 
